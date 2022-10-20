@@ -1,0 +1,5 @@
+host github
+        hostname github.com
+        user ibbignerd
+        IdentityFile ~/.ssh/github_ssh
+        IdentitiesOnly yes
